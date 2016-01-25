@@ -1,2 +1,1 @@
-# genetic-maze
-First try at genetic algorithms. Clojure
+This is a genetic algorithm I made in Clojure that learns how to traverse a maze. It uses a Clojure library called Quil for the GUI.
